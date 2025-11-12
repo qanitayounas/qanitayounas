@@ -1,10 +1,10 @@
 # 👩🏻‍💻 Hey there! I'm Qanita Binte Younas
 
 ### 🌟 About Me  
-🎓 Final-year **BS Computer Science** student at **UET Peshawar**.  
+🎓 **Fresh Computer Science Graduate** from **UET Peshawar**.  
 💬 Passionate about building intelligent, user-friendly, and meaningful web applications.  
-🚀 Currently developing **HealBot – an AI-Driven Virtual Therapist for Insomnia & OCD** as my Final Year Project.  
-🌱 Learning and exploring more about **AI, NLP, React, Node.js, and Modern Web Frameworks**.  
+🚀 Developed **HealBot – an AI-Driven Virtual Therapist for Insomnia & OCD** as my Final Year Project.  
+🌱 Currently exploring more about **AI, NLP, React, Node.js, and Modern Web Frameworks**.  
 📚 Interested in how **AI can transform healthcare and mental well-being**.  
 ✨ Creative thinker | Tech enthusiast | Lifelong learner  
 
@@ -35,3 +35,4 @@
 🐙 **GitHub:** [github.com/qanitayounas](https://github.com/qanitayounas)
 
 ---
+
